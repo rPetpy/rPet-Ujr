@@ -10,9 +10,9 @@ Animal Virtual
 
 |Nome  |E-mail  |  
 |---|---|    
-|Mafalda Serafim  |[Email](mailto: mafalda.dmserafim@gmail.com)  |  
-|Raquel Reis  |[Email](mailto: reisraquel407@gmail.com)  | 
-|Susana Monteiro  |[Email](mailto: s.moreno.monteiro@gmail.com)  |  
+|Mafalda Serafim  |[Email](mailto:mafalda.dmserafim@gmail.com)  |  
+|Raquel Reis  |[Email](mailto:reisraquel407@gmail.com)  | 
+|Susana Monteiro  |[Email](mailto:s.moreno.monteiro@gmail.com)  |  
 |Tiago Teixeira  |[Email](none)  |  
 
 #### Instruções
